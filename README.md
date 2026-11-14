@@ -155,7 +155,7 @@ int main() {
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to .
+Thus the program has been executed by using CUDA to enhance the performance of image processing tasks .
 
 Questions:
 
